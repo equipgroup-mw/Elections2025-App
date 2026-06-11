@@ -344,6 +344,46 @@
       transform: scale(0.95);
     }
 
+    /* PWA Install Button */
+    .pwa-install-button {
+      position: fixed;
+      bottom: 30px;
+      right: 30px;
+      z-index: 1000;
+      background-color: #0d2136;
+      color: white;
+      border: none;
+      border-radius: 50px;
+      padding: 14px 24px;
+      font-size: 16px;
+      font-weight: 600;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+      cursor: pointer;
+      display: none;
+      align-items: center;
+      gap: 8px;
+      transition: all 0.3s ease;
+      animation: float 3s ease-in-out infinite;
+    }
+
+    .pwa-install-button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+    }
+
+    .pwa-install-button:active {
+      transform: translateY(0);
+    }
+
+    .pwa-install-button.visible {
+      display: flex;
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-8px); }
+    }
+
     /* ---------- Panels ---------- */
     .info-panel, .stats-panel {
       position: fixed;
@@ -817,6 +857,11 @@
     <img src="data/equipLogo.png" alt="Logo" class="powered-by-logo">
   </div>
 
+  <!-- PWA Install Button -->
+  <button id="pwa-install-button" class="pwa-install-button">
+    📲 Install App
+  </button>
+
   <div id="map-root" role="application" aria-label="Malawi map">
     <svg id="map-svg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet"></svg>
     
@@ -987,6 +1032,49 @@
     const candidateYearSpan = d3.select("#candidate-year");
     const partyYearSpan = d3.select("#party-year");
     const electionYears = d3.select("#election-years");
+    const pwaInstallButton = document.getElementById("pwa-install-button");
+
+    // PWA install prompt handling
+    let deferredPrompt;
+
+    window.addEventListener('beforeinstallprompt', (e) => {
+      // Prevent the mini-infobar from appearing on mobile
+      e.preventDefault();
+      // Stash the event so it can be triggered later
+      deferredPrompt = e;
+      // Show the install button
+      pwaInstallButton.classList.add('visible');
+    });
+
+    pwaInstallButton.addEventListener('click', async () => {
+      if (!deferredPrompt) {
+        // If the prompt is not available, provide instructions
+        alert('To install this app:\n\n• On iOS: Tap the share button and select "Add to Home Screen"\n• On Android: Tap the menu button and select "Install app" or "Add to Home Screen"');
+        return;
+      }
+      
+      // Show the install prompt
+      deferredPrompt.prompt();
+      
+      // Wait for the user to respond to the prompt
+      const { outcome } = await deferredPrompt.userChoice;
+      
+      // Optionally, send analytics event with outcome of user choice
+      console.log(`User response to the install prompt: ${outcome}`);
+      
+      // Clear the deferredPrompt variable
+      deferredPrompt = null;
+      
+      // Hide the install button
+      pwaInstallButton.classList.remove('visible');
+    });
+
+    // Hide the button if the app is already installed
+    window.addEventListener('appinstalled', () => {
+      console.log('PWA was installed');
+      pwaInstallButton.classList.remove('visible');
+      deferredPrompt = null;
+    });
 
     // Projection & path
     const projection = d3.geoMercator()
