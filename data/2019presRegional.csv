@@ -1,0 +1,197 @@
+REGION NAME,DISTRICT NAME,NAME OF CANDIDATE,PARTY,PARTY COLOR,VOTES SCORED
+Northern Region,Chitipa,Atupele Muluzi,UDF,#FFFF00,499
+Northern Region,Chitipa,Saulos Chilima,UTM,#FF0000,43727
+Northern Region,Chitipa,Lazarus Chakwera,MCP,#00A200,16232
+Northern Region,Chitipa,Peter Kuwani,MMD,#008000,455
+Northern Region,Chitipa,Peter Mutharika,DPP,#00B0F0,13975
+Northern Region,Chitipa,John Chisi,UP,#6A5ACD,570
+Northern Region,Chitipa,Hadwick Kaliya,INDEPENDENT,#A49960,306
+Northern Region,Karonga,Atupele Muluzi,UDF,#FFFF00,1628
+Northern Region,Karonga,Saulos Chilima,UTM,#FF0000,55567
+Northern Region,Karonga,Lazarus Chakwera,MCP,#00A200,26209
+Northern Region,Karonga,Peter Kuwani,MMD,#008000,666
+Northern Region,Karonga,Peter Mutharika,DPP,#00B0F0,30658
+Northern Region,Karonga,John Chisi,UP,#6A5ACD,707
+Northern Region,Karonga,Hadwick Kaliya,INDEPENDENT,#A49960,373
+Northern Region,Likoma,Atupele Muluzi,UDF,#FFFF00,135
+Northern Region,Likoma,Saulos Chilima,UTM,#FF0000,2063
+Northern Region,Likoma,Lazarus Chakwera,MCP,#00A200,1353
+Northern Region,Likoma,Peter Kuwani,MMD,#008000,5
+Northern Region,Likoma,Peter Mutharika,DPP,#00B0F0,2225
+Northern Region,Likoma,John Chisi,UP,#6A5ACD,10
+Northern Region,Likoma,Hadwick Kaliya,INDEPENDENT,#A49960,6
+Northern Region,Mzimba,Atupele Muluzi,UDF,#FFFF00,3319
+Northern Region,Mzimba,Saulos Chilima,UTM,#FF0000,161872
+Northern Region,Mzimba,Lazarus Chakwera,MCP,#00A200,144974
+Northern Region,Mzimba,Peter Kuwani,MMD,#008000,1833
+Northern Region,Mzimba,Peter Mutharika,DPP,#00B0F0,56014
+Northern Region,Mzimba,John Chisi,UP,#6A5ACD,2532
+Northern Region,Mzimba,Hadwick Kaliya,INDEPENDENT,#A49960,1491
+Northern Region,Nkhata Bay,Atupele Muluzi,UDF,#FFFF00,790
+Northern Region,Nkhata Bay,Saulos Chilima,UTM,#FF0000,35106
+Northern Region,Nkhata Bay,Lazarus Chakwera,MCP,#00A200,19393
+Northern Region,Nkhata Bay,Peter Kuwani,MMD,#008000,356
+Northern Region,Nkhata Bay,Peter Mutharika,DPP,#00B0F0,21082
+Northern Region,Nkhata Bay,John Chisi,UP,#6A5ACD,316
+Northern Region,Nkhata Bay,Hadwick Kaliya,INDEPENDENT,#A49960,214
+Northern Region,Rumphi,Atupele Muluzi,UDF,#FFFF00,551
+Northern Region,Rumphi,Saulos Chilima,UTM,#FF0000,41256
+Northern Region,Rumphi,Lazarus Chakwera,MCP,#00A200,19285
+Northern Region,Rumphi,Peter Kuwani,MMD,#008000,245
+Northern Region,Rumphi,Peter Mutharika,DPP,#00B0F0,14596
+Northern Region,Rumphi,John Chisi,UP,#6A5ACD,401
+Northern Region,Rumphi,Hadwick Kaliya,INDEPENDENT,#A49960,191
+Central Region,Dedza ,Atupele Muluzi,UDF,#FFFF00,7512
+Central Region,Dedza ,Saulos Chilima,UTM,#FF0000,24602
+Central Region,Dedza ,Lazarus Chakwera,MCP,#00A200,149395
+Central Region,Dedza ,Peter Kuwani,MMD,#008000,810
+Central Region,Dedza ,Peter Mutharika,DPP,#00B0F0,23278
+Central Region,Dedza ,John Chisi,UP,#6A5ACD,1015
+Central Region,Dedza ,Hadwick Kaliya,INDEPENDENT,#A49960,898
+Central Region,Dowa,Atupele Muluzi,UDF,#FFFF00,1054
+Central Region,Dowa,Saulos Chilima,UTM,#FF0000,17666
+Central Region,Dowa,Lazarus Chakwera,MCP,#00A200,212043
+Central Region,Dowa,Peter Kuwani,MMD,#008000,229
+Central Region,Dowa,Peter Mutharika,DPP,#00B0F0,10066
+Central Region,Dowa,John Chisi,UP,#6A5ACD,430
+Central Region,Dowa,Hadwick Kaliya,INDEPENDENT,#A49960,285
+Central Region,Kasungu,Atupele Muluzi,UDF,#FFFF00,1784
+Central Region,Kasungu,Saulos Chilima,UTM,#FF0000,30729
+Central Region,Kasungu,Lazarus Chakwera,MCP,#00A200,172658
+Central Region,Kasungu,Peter Kuwani,MMD,#008000,599
+Central Region,Kasungu,Peter Mutharika,DPP,#00B0F0,31455
+Central Region,Kasungu,John Chisi,UP,#6A5ACD,757
+Central Region,Kasungu,Hadwick Kaliya,INDEPENDENT,#A49960,564
+Central Region,Lilongwe ,Atupele Muluzi,UDF,#FFFF00,13064
+Central Region,Lilongwe ,Saulos Chilima,UTM,#FF0000,113909
+Central Region,Lilongwe ,Lazarus Chakwera,MCP,#00A200,530941
+Central Region,Lilongwe ,Peter Kuwani,MMD,#008000,1113
+Central Region,Lilongwe ,Peter Mutharika,DPP,#00B0F0,82080
+Central Region,Lilongwe ,John Chisi,UP,#6A5ACD,1575
+Central Region,Lilongwe ,Hadwick Kaliya,INDEPENDENT,#A49960,1046
+Central Region,Mchinji ,Atupele Muluzi,UDF,#FFFF00,1536
+Central Region,Mchinji ,Saulos Chilima,UTM,#FF0000,17463
+Central Region,Mchinji ,Lazarus Chakwera,MCP,#00A200,121759
+Central Region,Mchinji ,Peter Kuwani,MMD,#008000,608
+Central Region,Mchinji ,Peter Mutharika,DPP,#00B0F0,19935
+Central Region,Mchinji ,John Chisi,UP,#6A5ACD,521
+Central Region,Mchinji ,Hadwick Kaliya,INDEPENDENT,#A49960,338
+Central Region,Nkhotakota,Atupele Muluzi,UDF,#FFFF00,5685
+Central Region,Nkhotakota,Saulos Chilima,UTM,#FF0000,23936
+Central Region,Nkhotakota,Lazarus Chakwera,MCP,#00A200,55619
+Central Region,Nkhotakota,Peter Kuwani,MMD,#008000,399
+Central Region,Nkhotakota,Peter Mutharika,DPP,#00B0F0,34664
+Central Region,Nkhotakota,John Chisi,UP,#6A5ACD,407
+Central Region,Nkhotakota,Hadwick Kaliya,INDEPENDENT,#A49960,339
+Central Region,Ntcheu ,Atupele Muluzi,UDF,#FFFF00,1229
+Central Region,Ntcheu ,Saulos Chilima,UTM,#FF0000,95878
+Central Region,Ntcheu ,Lazarus Chakwera,MCP,#00A200,16305
+Central Region,Ntcheu ,Peter Kuwani,MMD,#008000,636
+Central Region,Ntcheu ,Peter Mutharika,DPP,#00B0F0,44448
+Central Region,Ntcheu ,John Chisi,UP,#6A5ACD,826
+Central Region,Ntcheu ,Hadwick Kaliya,INDEPENDENT,#A49960,598
+Central Region,Ntchisi,Atupele Muluzi,UDF,#FFFF00,598
+Central Region,Ntchisi,Saulos Chilima,UTM,#FF0000,14323
+Central Region,Ntchisi,Lazarus Chakwera,MCP,#00A200,73019
+Central Region,Ntchisi,Peter Kuwani,MMD,#008000,124
+Central Region,Ntchisi,Peter Mutharika,DPP,#00B0F0,6630
+Central Region,Ntchisi,John Chisi,UP,#6A5ACD,284
+Central Region,Ntchisi,Hadwick Kaliya,INDEPENDENT,#A49960,180
+Central Region,Salima ,Atupele Muluzi,UDF,#FFFF00,5055
+Central Region,Salima ,Saulos Chilima,UTM,#FF0000,26763
+Central Region,Salima ,Lazarus Chakwera,MCP,#00A200,58163
+Central Region,Salima ,Peter Kuwani,MMD,#008000,473
+Central Region,Salima ,Peter Mutharika,DPP,#00B0F0,29197
+Central Region,Salima ,John Chisi,UP,#6A5ACD,585
+Central Region,Salima ,Hadwick Kaliya,INDEPENDENT,#A49960,330
+Southern Region,Balaka ,Atupele Muluzi,UDF,#FFFF00,15011
+Southern Region,Balaka ,Saulos Chilima,UTM,#FF0000,18510
+Southern Region,Balaka ,Lazarus Chakwera,MCP,#00A200,4743
+Southern Region,Balaka ,Peter Kuwani,MMD,#008000,642
+Southern Region,Balaka ,Peter Mutharika,DPP,#00B0F0,73787
+Southern Region,Balaka ,John Chisi,UP,#6A5ACD,329
+Southern Region,Balaka ,Hadwick Kaliya,INDEPENDENT,#A49960,339
+Southern Region,Blantyre ,Atupele Muluzi,UDF,#FFFF00,16998
+Southern Region,Blantyre ,Saulos Chilima,UTM,#FF0000,119529
+Southern Region,Blantyre ,Lazarus Chakwera,MCP,#00A200,38736
+Southern Region,Blantyre ,Peter Kuwani,MMD,#008000,580
+Southern Region,Blantyre ,Peter Mutharika,DPP,#00B0F0,201533
+Southern Region,Blantyre ,John Chisi,UP,#6A5ACD,793
+Southern Region,Blantyre ,Hadwick Kaliya,INDEPENDENT,#A49960,542
+Southern Region,Chikwawa ,Atupele Muluzi,UDF,#FFFF00,4041
+Southern Region,Chikwawa ,Saulos Chilima,UTM,#FF0000,14956
+Southern Region,Chikwawa ,Lazarus Chakwera,MCP,#00A200,25741
+Southern Region,Chikwawa ,Peter Kuwani,MMD,#008000,1290
+Southern Region,Chikwawa ,Peter Mutharika,DPP,#00B0F0,135961
+Southern Region,Chikwawa ,John Chisi,UP,#6A5ACD,782
+Southern Region,Chikwawa ,Hadwick Kaliya,INDEPENDENT,#A49960,772
+Southern Region,Chiradzulu ,Atupele Muluzi,UDF,#FFFF00,3774
+Southern Region,Chiradzulu ,Saulos Chilima,UTM,#FF0000,13911
+Southern Region,Chiradzulu ,Lazarus Chakwera,MCP,#00A200,3729
+Southern Region,Chiradzulu ,Peter Kuwani,MMD,#008000,386
+Southern Region,Chiradzulu ,Peter Mutharika,DPP,#00B0F0,93414
+Southern Region,Chiradzulu ,John Chisi,UP,#6A5ACD,335
+Southern Region,Chiradzulu ,Hadwick Kaliya,INDEPENDENT,#A49960,234
+Southern Region,Machinga ,Atupele Muluzi,UDF,#FFFF00,42831
+Southern Region,Machinga ,Saulos Chilima,UTM,#FF0000,16426
+Southern Region,Machinga ,Lazarus Chakwera,MCP,#00A200,9694
+Southern Region,Machinga ,Peter Kuwani,MMD,#008000,1606
+Southern Region,Machinga ,Peter Mutharika,DPP,#00B0F0,103506
+Southern Region,Machinga ,John Chisi,UP,#6A5ACD,967
+Southern Region,Machinga ,Hadwick Kaliya,INDEPENDENT,#A49960,1233
+Southern Region,Mangochi ,Atupele Muluzi,UDF,#FFFF00,78246
+Southern Region,Mangochi ,Saulos Chilima,UTM,#FF0000,26872
+Southern Region,Mangochi ,Lazarus Chakwera,MCP,#00A200,18351
+Southern Region,Mangochi ,Peter Kuwani,MMD,#008000,3160
+Southern Region,Mangochi ,Peter Mutharika,DPP,#00B0F0,157907
+Southern Region,Mangochi ,John Chisi,UP,#6A5ACD,1680
+Southern Region,Mangochi ,Hadwick Kaliya,INDEPENDENT,#A49960,1603
+Southern Region,Mulanje ,Atupele Muluzi,UDF,#FFFF00,3734
+Southern Region,Mulanje ,Saulos Chilima,UTM,#FF0000,17019
+Southern Region,Mulanje ,Lazarus Chakwera,MCP,#00A200,5378
+Southern Region,Mulanje ,Peter Kuwani,MMD,#008000,697
+Southern Region,Mulanje ,Peter Mutharika,DPP,#00B0F0,185667
+Southern Region,Mulanje ,John Chisi,UP,#6A5ACD,534
+Southern Region,Mulanje ,Hadwick Kaliya,INDEPENDENT,#A49960,597
+Southern Region,Mwanza ,Atupele Muluzi,UDF,#FFFF00,536
+Southern Region,Mwanza ,Saulos Chilima,UTM,#FF0000,10979
+Southern Region,Mwanza ,Lazarus Chakwera,MCP,#00A200,2931
+Southern Region,Mwanza ,Peter Kuwani,MMD,#008000,186
+Southern Region,Mwanza ,Peter Mutharika,DPP,#00B0F0,17349
+Southern Region,Mwanza ,John Chisi,UP,#6A5ACD,238
+Southern Region,Mwanza ,Hadwick Kaliya,INDEPENDENT,#A49960,168
+Southern Region,Neno ,Atupele Muluzi,UDF,#FFFF00,536
+Southern Region,Neno ,Saulos Chilima,UTM,#FF0000,7111
+Southern Region,Neno ,Lazarus Chakwera,MCP,#00A200,2316
+Southern Region,Neno ,Peter Kuwani,MMD,#008000,338
+Southern Region,Neno ,Peter Mutharika,DPP,#00B0F0,27488
+Southern Region,Neno ,John Chisi,UP,#6A5ACD,265
+Southern Region,Neno ,Hadwick Kaliya,INDEPENDENT,#A49960,177
+Southern Region,Nsanje ,Atupele Muluzi,UDF,#FFFF00,1417
+Southern Region,Nsanje ,Saulos Chilima,UTM,#FF0000,10828
+Southern Region,Nsanje ,Lazarus Chakwera,MCP,#00A200,21621
+Southern Region,Nsanje ,Peter Kuwani,MMD,#008000,817
+Southern Region,Nsanje ,Peter Mutharika,DPP,#00B0F0,69034
+Southern Region,Nsanje ,John Chisi,UP,#6A5ACD,635
+Southern Region,Nsanje ,Hadwick Kaliya,INDEPENDENT,#A49960,500
+Southern Region,Phalombe ,Atupele Muluzi,UDF,#FFFF00,2547
+Southern Region,Phalombe ,Saulos Chilima,UTM,#FF0000,5488
+Southern Region,Phalombe ,Lazarus Chakwera,MCP,#00A200,2910
+Southern Region,Phalombe ,Peter Kuwani,MMD,#008000,542
+Southern Region,Phalombe ,Peter Mutharika,DPP,#00B0F0,111497
+Southern Region,Phalombe ,John Chisi,UP,#6A5ACD,340
+Southern Region,Phalombe ,Hadwick Kaliya,INDEPENDENT,#A49960,428
+Southern Region,Thyolo ,Atupele Muluzi,UDF,#FFFF00,1810
+Southern Region,Thyolo ,Saulos Chilima,UTM,#FF0000,11664
+Southern Region,Thyolo ,Lazarus Chakwera,MCP,#00A200,4609
+Southern Region,Thyolo ,Peter Kuwani,MMD,#008000,552
+Southern Region,Thyolo ,Peter Mutharika,DPP,#00B0F0,196140
+Southern Region,Thyolo ,John Chisi,UP,#6A5ACD,472
+Southern Region,Thyolo ,Hadwick Kaliya,INDEPENDENT,#A49960,408
+Southern Region,Zomba ,Atupele Muluzi,UDF,#FFFF00,20011
+Southern Region,Zomba ,Saulos Chilima,UTM,#FF0000,41865
+Southern Region,Zomba ,Lazarus Chakwera,MCP,#00A200,24063
+Southern Region,Zomba ,Peter Kuwani,MMD,#008000,1044
+Southern Region,Zomba ,Peter Mutharika,DPP,#00B0F0,151023
+Southern Region,Zomba ,John Chisi,UP,#6A5ACD,903
+Southern Region,Zomba ,Hadwick Kaliya,INDEPENDENT,#A49960,1587

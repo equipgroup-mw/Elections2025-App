@@ -1,0 +1,6 @@
+fetch("data.json")
+  .then(res => res.json())
+  .then(data => {
+    console.log("Map data:", data);
+    // Use data in your map rendering code
+  });

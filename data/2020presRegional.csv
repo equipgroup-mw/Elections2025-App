@@ -1,0 +1,85 @@
+REGION NAME,DISTRICT NAME,NAME OF CANDIDATE,PARTY,PARTY COLOR,VOTES SCORED
+Northern Region,Chitipa,Lazarus Chakwera,MCP,#00A200,"50,277"
+Northern Region,Chitipa,Peter Kuwani,MMD,#CA3A43,"1,220"
+Northern Region,Chitipa,Peter Mutharika,DPP,#00B0F0,"8,007"
+Northern Region,Karonga,Lazarus Chakwera,MCP,#00A200,"74,665"
+Northern Region,Karonga,Peter Kuwani,MMD,#CA3A43,"1,257"
+Northern Region,Karonga,Peter Mutharika,DPP,#00B0F0,"13,356"
+Northern Region,Likoma,Lazarus Chakwera,MCP,#00A200,"2,981"
+Northern Region,Likoma,Peter Kuwani,MMD,#CA3A43,37
+Northern Region,Likoma,Peter Mutharika,DPP,#00B0F0,"1,690"
+Northern Region,Mzimba,Lazarus Chakwera,MCP,#00A200,"287,488"
+Northern Region,Mzimba,Peter Kuwani,MMD,#CA3A43,"2,839"
+Northern Region,Mzimba,Peter Mutharika,DPP,#00B0F0,"26,334"
+Northern Region,Nkhata Bay,Lazarus Chakwera,MCP,#00A200,"45,591"
+Northern Region,Nkhata Bay,Peter Kuwani,MMD,#CA3A43,663
+Northern Region,Nkhata Bay,Peter Mutharika,DPP,#00B0F0,"11,761"
+Northern Region,Rumphi,Lazarus Chakwera,MCP,#00A200,"55,513"
+Northern Region,Rumphi,Peter Kuwani,MMD,#CA3A43,747
+Northern Region,Rumphi,Peter Mutharika,DPP,#00B0F0,"8,909"
+Central Region,Dedza ,Lazarus Chakwera,MCP,#00A200,"170,268"
+Central Region,Dedza ,Peter Kuwani,MMD,#CA3A43,"1,492"
+Central Region,Dedza ,Peter Mutharika,DPP,#00B0F0,"14,724"
+Central Region,Dowa,Lazarus Chakwera,MCP,#00A200,"235,972"
+Central Region,Dowa,Peter Kuwani,MMD,#CA3A43,696
+Central Region,Dowa,Peter Mutharika,DPP,#00B0F0,"7,436"
+Central Region,Kasungu,Lazarus Chakwera,MCP,#00A200,"180,675"
+Central Region,Kasungu,Peter Kuwani,MMD,#CA3A43,924
+Central Region,Kasungu,Peter Mutharika,DPP,#00B0F0,"20,228"
+Central Region,Lilongwe ,Lazarus Chakwera,MCP,#00A200,"644,730"
+Central Region,Lilongwe ,Peter Kuwani,MMD,#CA3A43,"2,067"
+Central Region,Lilongwe ,Peter Mutharika,DPP,#00B0F0,"68,888"
+Central Region,Mchinji ,Lazarus Chakwera,MCP,#00A200,"135,181"
+Central Region,Mchinji ,Peter Kuwani,MMD,#CA3A43,761
+Central Region,Mchinji ,Peter Mutharika,DPP,#00B0F0,"15,080"
+Central Region,Nkhotakota,Lazarus Chakwera,MCP,#00A200,"77,439"
+Central Region,Nkhotakota,Peter Kuwani,MMD,#CA3A43,559
+Central Region,Nkhotakota,Peter Mutharika,DPP,#00B0F0,"21,656"
+Central Region,Ntcheu ,Lazarus Chakwera,MCP,#00A200,"81,914"
+Central Region,Ntcheu ,Peter Kuwani,MMD,#CA3A43,"2,447"
+Central Region,Ntcheu ,Peter Mutharika,DPP,#00B0F0,"26,041"
+Central Region,Ntchisi,Lazarus Chakwera,MCP,#00A200,"88,985"
+Central Region,Ntchisi,Peter Kuwani,MMD,#CA3A43,369
+Central Region,Ntchisi,Peter Mutharika,DPP,#00B0F0,"3,740"
+Central Region,Salima ,Lazarus Chakwera,MCP,#00A200,"77,977"
+Central Region,Salima ,Peter Kuwani,MMD,#CA3A43,"1,134"
+Central Region,Salima ,Peter Mutharika,DPP,#00B0F0,"19,666"
+Central Region,Balaka ,Lazarus Chakwera,MCP,#00A200,"18,108"
+Central Region,Balaka ,Peter Kuwani,MMD,#CA3A43,850
+Southern Region,Balaka ,Peter Mutharika,DPP,#00B0F0,"76,834"
+Southern Region,Blantyre ,Lazarus Chakwera,MCP,#00A200,"142,911"
+Southern Region,Blantyre ,Peter Kuwani,MMD,#CA3A43,"1,841"
+Southern Region,Blantyre ,Peter Mutharika,DPP,#00B0F0,"169,757"
+Southern Region,Chikwawa ,Lazarus Chakwera,MCP,#00A200,"32,706"
+Southern Region,Chikwawa ,Peter Kuwani,MMD,#CA3A43,"1,222"
+Southern Region,Chikwawa ,Peter Mutharika,DPP,#00B0F0,"105,523"
+Southern Region,Chiradzulu ,Lazarus Chakwera,MCP,#00A200,"11,777"
+Southern Region,Chiradzulu ,Peter Kuwani,MMD,#CA3A43,674
+Southern Region,Chiradzulu ,Peter Mutharika,DPP,#00B0F0,"90,371"
+Southern Region,Machinga ,Lazarus Chakwera,MCP,#00A200,"14,983"
+Southern Region,Machinga ,Peter Kuwani,MMD,#CA3A43,"1,684"
+Southern Region,Machinga ,Peter Mutharika,DPP,#00B0F0,"131,439"
+Southern Region,Mangochi ,Lazarus Chakwera,MCP,#00A200,"33,293"
+Southern Region,Mangochi ,Peter Kuwani,MMD,#CA3A43,"2,630"
+Southern Region,Mangochi ,Peter Mutharika,DPP,#00B0F0,"195,531"
+Southern Region,Mulanje ,Lazarus Chakwera,MCP,#00A200,"17,499"
+Southern Region,Mulanje ,Peter Kuwani,MMD,#CA3A43,"1,417"
+Southern Region,Mulanje ,Peter Mutharika,DPP,#00B0F0,"173,482"
+Southern Region,Mwanza ,Lazarus Chakwera,MCP,#00A200,"9,456"
+Southern Region,Mwanza ,Peter Kuwani,MMD,#CA3A43,336
+Southern Region,Mwanza ,Peter Mutharika,DPP,#00B0F0,"12,185"
+Southern Region,Neno ,Lazarus Chakwera,MCP,#00A200,"6,652"
+Southern Region,Neno ,Peter Kuwani,MMD,#CA3A43,364
+Southern Region,Neno ,Peter Mutharika,DPP,#00B0F0,"21,878"
+Southern Region,Nsanje ,Lazarus Chakwera,MCP,#00A200,"21,923"
+Southern Region,Nsanje ,Peter Kuwani,MMD,#CA3A43,666
+Southern Region,Nsanje ,Peter Mutharika,DPP,#00B0F0,"57,861"
+Southern Region,Phalombe ,Lazarus Chakwera,MCP,#00A200,"6,092"
+Southern Region,Phalombe ,Peter Kuwani,MMD,#CA3A43,674
+Southern Region,Phalombe ,Peter Mutharika,DPP,#00B0F0,"118,990"
+Southern Region,Thyolo ,Lazarus Chakwera,MCP,#00A200,"13,631"
+Southern Region,Thyolo ,Peter Kuwani,MMD,#CA3A43,964
+Southern Region,Thyolo ,Peter Mutharika,DPP,#00B0F0,"179,454"
+Southern Region,Zomba ,Lazarus Chakwera,MCP,#00A200,"46,610"
+Southern Region,Zomba ,Peter Kuwani,MMD,#CA3A43,"1,823"
+Southern Region,Zomba ,Peter Mutharika,DPP,#00B0F0,"149,051"
